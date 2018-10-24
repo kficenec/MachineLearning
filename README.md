@@ -8,4 +8,4 @@ Through the MSBA program (Masters of Science in Business Analytics) at the Colle
 
 includes files: KarenFfinalProj.R, finalProjectScriptSolar.R and Machine_Learning_PPT.pdf
 
-For this final project, my group predicted the output energy generated from small scale (behind-the-meter) solar arrays.
+For this final project, my group predicted the output energy generated from small scale (commonly called 'behind-the-meter') solar arrays based soley on weather and irradiance data with no information about array size, tilt-capability or efficiency of the panels. The file KarenFfinalProj shows some of the models that I was in charge of for this project before the file was cleaned and we worked as a group to combine everything to display the best model performance. finalProjectScriptSolar shows the work that we did together in arriving at our final solution. And Machine_Learning_PPT.pdf shows our presentation.
