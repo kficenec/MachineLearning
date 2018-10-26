@@ -8,7 +8,7 @@ For AI, classification and regression were performed using 'scikit neural networ
 
 # Contents
 
-## Machine Learning and Artificial Intelligence - Predicting Solar Production with Regression Models
+## Application 1: Predicting Solar Production with Regression Models
 
 includes files: KarenFfinalProj.R, finalProjectScriptSolar.R and Machine_Learning_PPT.pdf, * add AI files, change description
 
